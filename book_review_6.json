@@ -1,0 +1,13 @@
+ {
+      "bookId": 6,
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "image": "https://cdn.britannica.com/94/181394-050-2F76F7EE/Reproduction-cover-edition-The-Catcher-in-the.jpg",
+      "review": "The Catcher in the Rye is a novel that delves into the mind of a disillusioned teenager, Holden Caulfield. J.D. Salinger’s exploration of teenage angst and alienation is both poignant and relatable. The book’s portrayal of Holden’s struggle with the phoniness of the adult world makes it a powerful read for anyone who has ever felt out of place.",
+      "totalPages": 234,
+      "rating": 4.3,
+      "category": "Fiction",
+      "tags": ["Classic", "Coming of Age"],
+      "publisher": "Little, Brown and Company",
+      "yearOfPublishing": 1951
+    }
