@@ -1,0 +1,13 @@
+{
+      "bookId": 3,
+      "bookName": "1984",
+      "author": "George Orwell",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+      "review": "1984 is a dystopian novel that explores the dangers of totalitarianism. George Orwell’s depiction of a society under constant surveillance and control is chilling and thought-provoking. The book’s themes of government overreach and loss of individuality remain relevant today, making it a must-read for anyone interested in political philosophy.",
+      "totalPages": 328,
+      "rating": 4.8,
+      "category": "Science Fiction",
+      "tags": ["Dystopian", "Political"],
+      "publisher": "Secker & Warburg",
+      "yearOfPublishing": 1949
+    }
