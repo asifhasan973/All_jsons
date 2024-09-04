@@ -1,0 +1,13 @@
+  {
+      "bookId": 5,
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781524879761/the-great-gatsby-9781524879761_hr.jpg",
+      "review": "The Great Gatsby is a novel about the American Dream and its ultimate decay. F. Scott Fitzgerald’s prose is both beautiful and haunting, capturing the essence of the Roaring Twenties. The story of Jay Gatsby’s pursuit of wealth and love is a tragic reflection on the pursuit of happiness in a materialistic society.",
+      "totalPages": 180,
+      "rating": 4.4,
+      "category": "Fiction",
+      "tags": ["Classic", "Tragedy"],
+      "publisher": "Charles Scribner's Sons",
+      "yearOfPublishing": 1925
+    }
