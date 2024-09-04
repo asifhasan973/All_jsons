@@ -1,0 +1,13 @@
+    {
+      "bookId": 1,
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg",
+      "review": "The Alchemist is a captivating tale of self-discovery and following one’s dreams. Paulo Coelho beautifully intertwines spirituality and adventure, making it a timeless read for anyone seeking inspiration. The story of Santiago’s journey to find treasure teaches valuable lessons about the pursuit of happiness and the importance of listening to our hearts.",
+      "totalPages": 208,
+      "rating": 4.7,
+      "category": "Fiction",
+      "tags": ["Philosophical", "Adventure"],
+      "publisher": "HarperOne",
+      "yearOfPublishing": 1988
+    }
