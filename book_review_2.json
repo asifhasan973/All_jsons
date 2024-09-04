@@ -1,0 +1,13 @@
+ {
+      "bookId": 2,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://media.glamour.com/photos/56e1f3c462b398fa64cbd30b/master/w_1600%2Cc_limit/entertainment-2016-02-17-main.jpg",
+      "review": "To Kill a Mockingbird is a powerful novel that addresses serious themes like racial injustice and moral growth. Harper Lee’s writing is deeply evocative, bringing the characters and the setting of the American South to life. The story, told through the eyes of young Scout Finch, is both heartwarming and heart-wrenching, making it a must-read classic.",
+      "totalPages": 336,
+      "rating": 4.9,
+      "category": "Fiction",
+      "tags": ["Classic", "Social Issues"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    }
