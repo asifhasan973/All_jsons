@@ -18,6 +18,8 @@
         "garage",
         "garden"
       ],
+      "bedroom": 2,
+      "bathroom": 3,
       "view_property_button": true
     },
     {
@@ -36,12 +38,14 @@
         "Kitchen",
         "laundry room"
       ],
+      "bedroom": 2,
+      "bathroom": 3,
       "view_property_button": true
     },
     {
       "id": "3",
       "estate_title": "Spacious Villa",
-      "image": "https://images.unsplash.com/photo-1564401041865-32f7f9eec41f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+      "image": "https://plus.unsplash.com/premium_photo-1661962841993-99a07c27c9f4?q=80&w=3262&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "segment_name": "Luxury",
       "description": "A spacious villa with luxurious amenities and beautiful landscaping.",
       "price": "$750,000",
@@ -55,12 +59,14 @@
         "home theater",
         "gym"
       ],
+      "bedroom": 2,
+      "bathroom": 3,
       "view_property_button": true
     },
     {
       "id": "4",
       "estate_title": "Charming Cottage",
-      "image": "https://images.unsplash.com/photo-1579654553395-4a3a95d60c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+      "image": "https://plus.unsplash.com/premium_photo-1682377521724-ececd24a83b4?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "segment_name": "Affordable",
       "description": "A charming cottage perfect for a small family or a couple.",
       "price": "$150,000",
@@ -73,6 +79,8 @@
         "Kitchen",
         "fireplace"
       ],
+      "bedroom": 2,
+      "bathroom": 3,
       "view_property_button": true
     }
   ]
