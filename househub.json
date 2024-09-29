@@ -1,0 +1,79 @@
+{
+  "category": "Residential",
+  "estates": [
+    {
+      "id": "1",
+      "estate_title": "Modern Family Home",
+      "image": "https://images.unsplash.com/photo-1492889971304-ac16ab4a4a5a?q=80&w=3274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "segment_name": "Luxury",
+      "description": "A beautiful modern home with spacious interiors and a lovely garden.",
+      "price": "$450,000",
+      "status": "sale",
+      "area": "2500 sq ft",
+      "location": "Jashore, Bangladesh",
+      "facilities": [
+        "living room",
+        "swimming pool",
+        "Kitchen",
+        "garage",
+        "garden"
+      ],
+      "view_property_button": true
+    },
+    {
+      "id": "2",
+      "estate_title": "Cozy Apartment",
+      "image": "https://images.unsplash.com/photo-1480074568708-e7b720bb3f09?q=80&w=3274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "segment_name": "Affordable",
+      "description": "A cozy 2-bedroom apartment located in the heart of the city.",
+      "price": "$200,000",
+      "status": "rent",
+      "area": "1200 sq ft",
+      "location": "Dhaka, Bangladesh",
+      "facilities": [
+        "living room",
+        "balcony",
+        "Kitchen",
+        "laundry room"
+      ],
+      "view_property_button": true
+    },
+    {
+      "id": "3",
+      "estate_title": "Spacious Villa",
+      "image": "https://images.unsplash.com/photo-1564401041865-32f7f9eec41f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+      "segment_name": "Luxury",
+      "description": "A spacious villa with luxurious amenities and beautiful landscaping.",
+      "price": "$750,000",
+      "status": "sale",
+      "area": "4000 sq ft",
+      "location": "Chittagong, Bangladesh",
+      "facilities": [
+        "living room",
+        "swimming pool",
+        "Kitchen",
+        "home theater",
+        "gym"
+      ],
+      "view_property_button": true
+    },
+    {
+      "id": "4",
+      "estate_title": "Charming Cottage",
+      "image": "https://images.unsplash.com/photo-1579654553395-4a3a95d60c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&q=80&w=400",
+      "segment_name": "Affordable",
+      "description": "A charming cottage perfect for a small family or a couple.",
+      "price": "$150,000",
+      "status": "sale",
+      "area": "900 sq ft",
+      "location": "Sylhet, Bangladesh",
+      "facilities": [
+        "living room",
+        "garden",
+        "Kitchen",
+        "fireplace"
+      ],
+      "view_property_button": true
+    }
+  ]
+}
