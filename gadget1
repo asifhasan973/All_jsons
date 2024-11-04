@@ -1,12 +1,16 @@
 {
     "product_id": 1,
-    "product_title": "Laptop 1",
+    "product_title": "HP Spectre x360",
     "product_image": "https://m.media-amazon.com/images/I/61qTxfkHV0L._AC_SL1500_.jpg",
     "category": "laptop",
-    "price": 799,
-    "description": "High-performance laptop with cutting-edge features.",
-    "Specification": ["16GB RAM", "512GB SSD", "Intel i7 Processor"],
+    "price": 1299.99,
+    "description": "Versatile convertible laptop.",
+    "Specification": [
+        "13.3-inch FHD display",
+        "Intel Core i7",
+        "16GB RAM",
+        "1TB SSD"
+    ],
     "availability": true,
-    "rating": 4.5,
-    "other_field": "Warranty: 2 years"
+    "rating": 4.6
 }
