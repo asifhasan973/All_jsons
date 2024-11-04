@@ -1,0 +1,16 @@
+{
+    "product_id": 4,
+    "product_title": "Fitbit Versa 3",
+    "product_image": "https://m.media-amazon.com/images/I/61CZSoSnVPL._AC_SL1500_.jpg",
+    "category": "smartwatch",
+    "price": 229.99,
+    "description": "Smartwatch with fitness and health tracking.",
+    "Specification": [
+        "1.58-inch AMOLED display",
+        "Built-in GPS",
+        "Heart rate monitor",
+        "Voice assistant support"
+    ],
+    "availability": true,
+    "rating": 4.4
+}
