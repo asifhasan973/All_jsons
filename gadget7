@@ -1,0 +1,12 @@
+{
+    "product_id": 7,
+    "product_title": "Smartwatch 1",
+    "product_image": "https://m.media-amazon.com/images/I/51O8E51WxxL._AC_SL1024_.jpg",
+    "category": "smartwatch",
+    "price": 199,
+    "description": "Stylish smartwatch with health tracking features.",
+    "Specification": ["Heart rate monitor", "GPS", "Waterproof"],
+    "availability": true,
+    "rating": 4.3,
+    "other_field": "Compatible with iOS and Android"
+}
