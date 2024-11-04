@@ -1,12 +1,16 @@
 {
     "product_id": 5,
-    "product_title": "Smartphone 2",
+    "product_title": "Apple Watch Series 7",
     "product_image": "https://m.media-amazon.com/images/I/71S6CQmCTsL._AC_SL1500_.jpg",
-    "category": "smartphone",
-    "price": 749,
-    "description": "Smartphone with premium build and features.",
-    "Specification": ["256GB Storage", "Water resistant", "Fast charging"],
+    "category": "smartwatch",
+    "price": 399.99,
+    "description": "The ultimate smartwatch experience.",
+    "Specification": [
+        "Always-On Retina display",
+        "GPS + Cellular",
+        "Fitness tracking",
+        "Water resistant"
+    ],
     "availability": true,
-    "rating": 4.5,
-    "other_field": "Includes wireless earbuds"
+    "rating": 4.6
 }
