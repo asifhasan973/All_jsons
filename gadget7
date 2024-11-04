@@ -1,12 +1,16 @@
 {
     "product_id": 7,
-    "product_title": "Smartwatch 1",
+    "product_title": "Apple MacBook Air",
     "product_image": "https://m.media-amazon.com/images/I/51O8E51WxxL._AC_SL1024_.jpg",
-    "category": "smartwatch",
-    "price": 199,
-    "description": "Stylish smartwatch with health tracking features.",
-    "Specification": ["Heart rate monitor", "GPS", "Waterproof"],
+    "category": "laptop",
+    "price": 1099.99,
+    "description": "Lightweight and powerful MacBook.",
+    "Specification": [
+        "13.3-inch Retina display",
+        "Apple M1 chip",
+        "8GB RAM",
+        "256GB SSD"
+    ],
     "availability": true,
-    "rating": 4.3,
-    "other_field": "Compatible with iOS and Android"
+    "rating": 4.7
 }
