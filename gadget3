@@ -1,0 +1,16 @@
+{
+    "product_id": 3,
+    "product_title": "Dell XPS 13",
+    "product_image": "https://m.media-amazon.com/images/I/91MXLpouhoL._AC_SL1500_.jpg",
+    "category": "laptop",
+    "price": 999.99,
+    "description": "Powerful laptop with a stunning display.",
+    "Specification": [
+        "13.4-inch FHD+ display",
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.8
+}
