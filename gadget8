@@ -1,0 +1,16 @@
+{
+    "product_id": 8,
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://m.media-amazon.com/images/I/61im3OsaksL._AC_SL1500_.jpg",
+    "category": "smartwatch",
+    "price": 249.99,
+    "description": "Health and fitness tracking smartwatch.",
+    "Specification": [
+        "1.4-inch AMOLED display",
+        "GPS support",
+        "Heart rate monitoring",
+        "Water resistant"
+    ],
+    "availability": true,
+    "rating": 4.5
+}
