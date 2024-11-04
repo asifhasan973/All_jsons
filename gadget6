@@ -1,0 +1,12 @@
+{
+    "product_id": 6,
+    "product_title": "Smartphone 3",
+    "product_image": "https://m.media-amazon.com/images/I/61S8-z34EFL._AC_SL1200_.jpg",
+    "category": "smartphone",
+    "price": 899,
+    "description": "Top-of-the-line smartphone with AI features.",
+    "Specification": ["512GB Storage", "Dual camera", "4000mAh battery"],
+    "availability": false,
+    "rating": 4.9,
+    "other_field": "Limited edition"
+}
