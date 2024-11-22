@@ -1,0 +1,20 @@
+{
+    "id": 4,
+    "title": "Mountain Peak Climbing",
+    "image": "https://images.unsplash.com/photo-1458724715045-81841536951e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TW91bnRhaW4lMjBQZWFrJTIwQ2xpbWJpbmd8ZW58MHwwfDB8fHww",
+    "categoryName": "Climbing",
+    "shortDescription": "Conquer breathtaking peaks with professional guides.",
+    "cost": 200,
+    "availability": "Available",
+    "location": "Himalayas, Nepal",
+    "duration": "5 days",
+    "adventureLevel": "Extreme",
+    "includedItems": ["Climbing Gear", "Guide", "First Aid Kit"],
+    "ecoFriendlyFeatures": ["Zero waste policy", "Leave-no-trace trekking"],
+    "maxGroupSize": 5,
+    "specialInstructions": [
+      "Train physically",
+      "Pack warm clothing",
+      "Bring personal snacks"
+    ]
+  }
