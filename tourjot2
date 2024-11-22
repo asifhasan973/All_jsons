@@ -1,0 +1,20 @@
+{
+    "id": 2,
+    "title": "Coral Reef Snorkeling",
+    "image": "https://images.unsplash.com/photo-1432889490240-84df33d47091?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFRyb3BpY2FsJTIwUmFpbmZvcmVzdCUyMFRyZWslMjB0b3VyfGVufDB8MHwwfHx8MA%3D%3D",
+    "categoryName": "Water Adventure",
+    "shortDescription": "Discover vibrant underwater life in pristine coral reefs.",
+    "cost": 80,
+    "availability": "Limited",
+    "location": "Great Barrier Reef, Australia",
+    "duration": "1 day",
+    "adventureLevel": "Easy",
+    "includedItems": ["Snorkeling Gear", "Safety Briefing"],
+    "ecoFriendlyFeatures": ["Marine-safe sunscreen", "No-touch coral policy"],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Wear swimwear",
+      "Follow marine guidelines",
+      "Stay hydrated"
+    ]
+  }
