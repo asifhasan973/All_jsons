@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "title": "Tropical Rainforest Trek",
+    "image": "rainforest-trek.jpg",
+    "categoryName": "Hiking",
+    "shortDescription": "https://plus.unsplash.com/premium_photo-1730078556503-5d8fc0587b23?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8VHJvcGljYWwlMjBSYWluZm9yZXN0JTIwVHJlayUyMHRvdXJ8ZW58MHwwfDB8fHww",
+    "cost": 120,
+    "availability": "Available",
+    "location": "Amazon Rainforest, Brazil",
+    "duration": "3 days",
+    "adventureLevel": "Moderate",
+    "includedItems": ["Guide", "Meals", "Camping Gear"],
+    "ecoFriendlyFeatures": [
+      "Reusable utensils",
+      "Biodegradable waste disposal"
+    ],
+    "maxGroupSize": 10,
+    "specialInstructions": [
+      "Wear waterproof shoes",
+      "Carry insect repellent",
+      "Pack light"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Coral Reef Snorkeling",
+    "image": "https://images.unsplash.com/photo-1432889490240-84df33d47091?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fFRyb3BpY2FsJTIwUmFpbmZvcmVzdCUyMFRyZWslMjB0b3VyfGVufDB8MHwwfHx8MA%3D%3D",
+    "categoryName": "Water Adventure",
+    "shortDescription": "Discover vibrant underwater life in pristine coral reefs.",
+    "cost": 80,
+    "availability": "Limited",
+    "location": "Great Barrier Reef, Australia",
+    "duration": "1 day",
+    "adventureLevel": "Easy",
+    "includedItems": ["Snorkeling Gear", "Safety Briefing"],
+    "ecoFriendlyFeatures": ["Marine-safe sunscreen", "No-touch coral policy"],
+    "maxGroupSize": 8,
+    "specialInstructions": [
+      "Wear swimwear",
+      "Follow marine guidelines",
+      "Stay hydrated"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Desert Wildlife Safari",
+    "image": "https://plus.unsplash.com/premium_photo-1700576928991-bc207936acb2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RGVzZXJ0JTIwV2lsZGxpZmUlMjBTYWZhcml8ZW58MHwwfDB8fHww",
+    "categoryName": "Wildlife",
+    "shortDescription": "Track unique desert wildlife in a sustainable safari.",
+    "cost": 150,
+    "availability": "Available",
+    "location": "Sahara Desert, Morocco",
+    "duration": "2 days",
+    "adventureLevel": "Challenging",
+    "includedItems": ["4x4 Vehicle", "Meals", "Expert Tracker"],
+    "ecoFriendlyFeatures": [
+      "Low-emission vehicles",
+      "Water conservation practices"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+      "Carry sunscreen",
+      "Avoid plastic bottles",
+      "Respect wildlife"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Mountain Peak Climbing",
+    "image": "https://images.unsplash.com/photo-1458724715045-81841536951e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8TW91bnRhaW4lMjBQZWFrJTIwQ2xpbWJpbmd8ZW58MHwwfDB8fHww",
+    "categoryName": "Climbing",
+    "shortDescription": "Conquer breathtaking peaks with professional guides.",
+    "cost": 200,
+    "availability": "Available",
+    "location": "Himalayas, Nepal",
+    "duration": "5 days",
+    "adventureLevel": "Extreme",
+    "includedItems": ["Climbing Gear", "Guide", "First Aid Kit"],
+    "ecoFriendlyFeatures": ["Zero waste policy", "Leave-no-trace trekking"],
+    "maxGroupSize": 5,
+    "specialInstructions": [
+      "Train physically",
+      "Pack warm clothing",
+      "Bring personal snacks"
+    ]
+  }
+]
