@@ -1,0 +1,23 @@
+{
+    "id": 3,
+    "title": "Desert Wildlife Safari",
+    "image": "https://plus.unsplash.com/premium_photo-1700576928991-bc207936acb2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8RGVzZXJ0JTIwV2lsZGxpZmUlMjBTYWZhcml8ZW58MHwwfDB8fHww",
+    "categoryName": "Wildlife",
+    "shortDescription": "Track unique desert wildlife in a sustainable safari.",
+    "cost": 150,
+    "availability": "Available",
+    "location": "Sahara Desert, Morocco",
+    "duration": "2 days",
+    "adventureLevel": "Challenging",
+    "includedItems": ["4x4 Vehicle", "Meals", "Expert Tracker"],
+    "ecoFriendlyFeatures": [
+      "Low-emission vehicles",
+      "Water conservation practices"
+    ],
+    "maxGroupSize": 6,
+    "specialInstructions": [
+      "Carry sunscreen",
+      "Avoid plastic bottles",
+      "Respect wildlife"
+    ]
+  }
