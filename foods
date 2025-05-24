@@ -2,9 +2,9 @@
   {
     "foodName": "Vegetable Biryani",
     "foodImage": "https://example.com/images/biryani.jpg",
-    "foodQuantity": "3 servings",
-    "pickupLocation": "CUET Main Gate, Chittagong",
-    "expiredDateTime": "2025-05-25T20:00:00",
+    "foodQuantity": "3",
+    "pickupLocation": "Shah Hall Canteen, CUET",
+    "Description": "Aromatic basmati rice cooked with fresh vegetables and spices.",
     "additionalNotes": "Includes salad and raita.",
     "donator": {
       "donatorImage": "https://example.com/images/user1.jpg",
@@ -14,268 +14,72 @@
     "foodStatus": "available"
   },
   {
-    "foodName": "Chicken Curry with Rice",
-    "foodImage": "https://example.com/images/chicken_curry.jpg",
-    "foodQuantity": "4 servings",
-    "pickupLocation": "Chawkbazar, Chattogram",
-    "expiredDateTime": "2025-05-24T22:00:00",
-    "additionalNotes": "Slightly spicy, best before tonight.",
+    "foodName": "Chicken Kebab",
+    "foodImage": "https://example.com/images/chicken_kebab.jpg",
+    "foodQuantity": "5",
+    "pickupLocation": "TSC Canteen, CUET",
+    "Description": "Tender chicken pieces marinated and grilled to perfection.",
+    "additionalNotes": "Served with mint chutney.",
     "donator": {
       "donatorImage": "https://example.com/images/user2.jpg",
-      "donatorName": "Nayeem Uddin",
-      "donatorEmail": "nayeem@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Beef Tehari",
-    "foodImage": "https://example.com/images/beef_tehari.jpg",
-    "foodQuantity": "2 servings",
-    "pickupLocation": "Gate #2, CUET",
-    "expiredDateTime": "2025-05-25T14:00:00",
-    "additionalNotes": "Home cooked.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user3.jpg",
-      "donatorName": "Fatema Akter",
-      "donatorEmail": "fatema@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Mixed Vegetable",
-    "foodImage": "https://example.com/images/veg_mix.jpg",
-    "foodQuantity": "5 servings",
-    "pickupLocation": "Khulshi, Chattogram",
-    "expiredDateTime": "2025-05-26T10:00:00",
-    "additionalNotes": "Vegan friendly.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user4.jpg",
-      "donatorName": "Kazi Imran",
-      "donatorEmail": "kazi@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Plain Paratha & Egg Curry",
-    "foodImage": "https://example.com/images/paratha_egg.jpg",
-    "foodQuantity": "4 servings",
-    "pickupLocation": "Muradpur Circle",
-    "expiredDateTime": "2025-05-24T09:00:00",
-    "additionalNotes": "Served with onion salad.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user5.jpg",
-      "donatorName": "Razia Sultana",
-      "donatorEmail": "razia@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Fried Rice with Chicken",
-    "foodImage": "https://example.com/images/fried_rice.jpg",
-    "foodQuantity": "3 servings",
-    "pickupLocation": "Agrabad Commercial Area",
-    "expiredDateTime": "2025-05-25T19:00:00",
-    "additionalNotes": "Soy sauce flavor.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user6.jpg",
-      "donatorName": "Sazzad Hossain",
-      "donatorEmail": "sazzad@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Lentil Soup with Bread",
-    "foodImage": "https://example.com/images/lentil_soup.jpg",
-    "foodQuantity": "2 servings",
-    "pickupLocation": "Probartak Mor",
-    "expiredDateTime": "2025-05-26T12:00:00",
-    "additionalNotes": "Very light and healthy.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user7.jpg",
-      "donatorName": "Arif Mahmud",
-      "donatorEmail": "arif@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Fruit Salad",
-    "foodImage": "https://example.com/images/fruit_salad.jpg",
-    "foodQuantity": "4 bowls",
-    "pickupLocation": "CUET Cafeteria",
-    "expiredDateTime": "2025-05-24T16:00:00",
-    "additionalNotes": "Includes banana, apple, watermelon.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user8.jpg",
-      "donatorName": "Mou Rahman",
-      "donatorEmail": "mou@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Khichuri with Eggplant Fry",
-    "foodImage": "https://example.com/images/khichuri.jpg",
-    "foodQuantity": "6 servings",
-    "pickupLocation": "GEC Circle",
-    "expiredDateTime": "2025-05-25T13:00:00",
-    "additionalNotes": "Mildly spicy, good for iftar.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user9.jpg",
-      "donatorName": "Tariqul Islam",
-      "donatorEmail": "tariqul@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Spaghetti with Tomato Sauce",
-    "foodImage": "https://example.com/images/spaghetti.jpg",
-    "foodQuantity": "5 servings",
-    "pickupLocation": "Bayezid, Chattogram",
-    "expiredDateTime": "2025-05-25T21:00:00",
-    "additionalNotes": "Includes cheese topping.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user10.jpg",
-      "donatorName": "Nusrat Jahan",
-      "donatorEmail": "nusrat@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Fish Curry with Rice",
-    "foodImage": "https://example.com/images/fish_curry.jpg",
-    "foodQuantity": "3 servings",
-    "pickupLocation": "CUET Hostel 3",
-    "expiredDateTime": "2025-05-24T20:30:00",
-    "additionalNotes": "Made with Rui fish.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user11.jpg",
-      "donatorName": "Rafsan Kabir",
-      "donatorEmail": "rafsan@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Chicken Sandwich",
-    "foodImage": "https://example.com/images/chicken_sandwich.jpg",
-    "foodQuantity": "10 pieces",
-    "pickupLocation": "New Market, Chattogram",
-    "expiredDateTime": "2025-05-24T18:00:00",
-    "additionalNotes": "Served with ketchup.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user12.jpg",
-      "donatorName": "Zarin Akter",
-      "donatorEmail": "zarin@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Boiled Egg & Bread",
-    "foodImage": "https://example.com/images/egg_bread.jpg",
-    "foodQuantity": "6 plates",
-    "pickupLocation": "CUET Library Area",
-    "expiredDateTime": "2025-05-25T08:00:00",
-    "additionalNotes": "Basic breakfast combo.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user13.jpg",
-      "donatorName": "Hasan Al Mamun",
-      "donatorEmail": "hasan@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Beef Curry",
-    "foodImage": "https://example.com/images/beef_curry.jpg",
-    "foodQuantity": "2 bowls",
-    "pickupLocation": "Pahartali Bazar",
-    "expiredDateTime": "2025-05-26T14:30:00",
-    "additionalNotes": "Cooked with potatoes.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user14.jpg",
-      "donatorName": "Mahin Chowdhury",
-      "donatorEmail": "mahin@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Chingri Malai Curry",
-    "foodImage": "https://example.com/images/chingri.jpg",
-    "foodQuantity": "3 servings",
-    "pickupLocation": "Nasirabad Housing",
-    "expiredDateTime": "2025-05-25T17:00:00",
-    "additionalNotes": "Special Bengali dish.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user15.jpg",
-      "donatorName": "Farzana Yasmin",
-      "donatorEmail": "farzana@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Moong Dal & Rice",
-    "foodImage": "https://example.com/images/moong_dal.jpg",
-    "foodQuantity": "4 servings",
-    "pickupLocation": "CUET Staff Quarter",
-    "expiredDateTime": "2025-05-25T15:00:00",
-    "additionalNotes": "Healthy and nutritious.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user16.jpg",
-      "donatorName": "Iqbal Hossain",
-      "donatorEmail": "iqbal@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Noodles with Vegetables",
-    "foodImage": "https://example.com/images/veg_noodles.jpg",
-    "foodQuantity": "5 bowls",
-    "pickupLocation": "Kazir Dewri",
-    "expiredDateTime": "2025-05-25T10:00:00",
-    "additionalNotes": "Includes capsicum and carrots.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user17.jpg",
-      "donatorName": "Shorna Akter",
-      "donatorEmail": "shorna@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Chotpoti",
-    "foodImage": "https://example.com/images/chotpoti.jpg",
-    "foodQuantity": "6 bowls",
-    "pickupLocation": "Alanker Mor",
-    "expiredDateTime": "2025-05-24T17:00:00",
-    "additionalNotes": "Includes tamarind sauce.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user18.jpg",
-      "donatorName": "Tania Hossain",
-      "donatorEmail": "tania@example.com"
-    },
-    "foodStatus": "available"
-  },
-  {
-    "foodName": "Pulao with Chicken Roast",
-    "foodImage": "https://example.com/images/pulao_chicken.jpg",
-    "foodQuantity": "4 servings",
-    "pickupLocation": "CUET Auditorium",
-    "expiredDateTime": "2025-05-25T13:30:00",
-    "additionalNotes": "Event leftovers.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user19.jpg",
-      "donatorName": "Sadia Afrin",
+      "donatorName": "Sadia Islam",
       "donatorEmail": "sadia@example.com"
     },
     "foodStatus": "available"
   },
   {
-    "foodName": "Semai Dessert",
-    "foodImage": "https://example.com/images/semai.jpg",
-    "foodQuantity": "8 bowls",
-    "pickupLocation": "Rangunia Bazar",
-    "expiredDateTime": "2025-05-26T09:00:00",
-    "additionalNotes": "Prepared for Eid.",
+    "foodName": "Egg Curry",
+    "foodImage": "https://example.com/images/egg_curry.jpg",
+    "foodQuantity": "4",
+    "pickupLocation": "Nikunja Hall Canteen, CUET",
+    "Description": "Boiled eggs cooked in a spicy and flavorful gravy.",
+    "additionalNotes": "Best with steamed rice.",
     "donator": {
-      "donatorImage": "https://example.com/images/user20.jpg",
-      "donatorName": "Mamunur Rashid",
-      "donatorEmail": "mamun@example.com"
+      "donatorImage": "https://example.com/images/user3.jpg",
+      "donatorName": "Rafiq Ahmed",
+      "donatorEmail": "rafiq@example.com"
+    },
+    "foodStatus": "available"
+  },
+  {
+    "foodName": "Vegetable Pulao",
+    "foodImage": "https://example.com/images/veg_pulao.jpg",
+    "foodQuantity": "2",
+    "pickupLocation": "Teacher's Student Center (TSC), CUET",
+    "Description": "Lightly spiced rice cooked with mixed vegetables.",
+    "additionalNotes": "Served with cucumber raita.",
+    "donator": {
+      "donatorImage": "https://example.com/images/user4.jpg",
+      "donatorName": "Nabila Chowdhury",
+      "donatorEmail": "nabila@example.com"
+    },
+    "foodStatus": "available"
+  },
+  {
+    "foodName": "Beef Bhuna",
+    "foodImage": "https://example.com/images/beef_bhuna.jpg",
+    "foodQuantity": "3",
+    "pickupLocation": "Jahangir Hall Canteen, CUET",
+    "Description": "Slow-cooked beef with rich spices and thick gravy.",
+    "additionalNotes": "Served hot with paratha.",
+    "donator": {
+      "donatorImage": "https://example.com/images/user5.jpg",
+      "donatorName": "Imran Hossain",
+      "donatorEmail": "imran@example.com"
+    },
+    "foodStatus": "available"
+  },
+  {
+    "foodName": "Mixed Vegetable Soup",
+    "foodImage": "https://example.com/images/veg_soup.jpg",
+    "foodQuantity": "4",
+    "pickupLocation": "Golam Kibria Hall Canteen, CUET",
+    "Description": "Healthy and warm soup made with fresh seasonal vegetables.",
+    "additionalNotes": "Good for cold days.",
+    "donator": {
+      "donatorImage": "https://example.com/images/user6.jpg",
+      "donatorName": "Farhana Yasmin",
+      "donatorEmail": "farhana@example.com"
     },
     "foodStatus": "available"
   }
