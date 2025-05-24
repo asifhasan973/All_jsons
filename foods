@@ -1,86 +1,98 @@
-[
+const sampleFoods = [
   {
-    "foodName": "Vegetable Biryani",
-    "foodImage": "https://example.com/images/biryani.jpg",
-    "foodQuantity": "3",
-    "pickupLocation": "Shah Hall Canteen, CUET",
-    "Description": "Aromatic basmati rice cooked with fresh vegetables and spices.",
-    "additionalNotes": "Includes salad and raita.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user1.jpg",
-      "donatorName": "Asif Rahman",
-      "donatorEmail": "asif@example.com"
+    _id: "1",
+    foodName: "Vegetable Biryani",
+    foodImage: "https://example.com/images/biryani.jpg",
+    foodQuantity: "3",
+    pickupLocation: "Shah Hall Canteen, CUET",
+    Description: "Aromatic basmati rice cooked with fresh vegetables and spices.",
+    additionalNotes: "Includes salad and raita.",
+    donator: {
+      donatorImage: "https://example.com/images/user1.jpg",
+      donatorName: "Asif Rahman",
+      donatorEmail: "asif@example.com",
     },
-    "foodStatus": "available"
+    foodStatus: "available",
+    expiredDateTime: "2025-12-31T23:59:59Z",
   },
   {
-    "foodName": "Chicken Kebab",
-    "foodImage": "https://example.com/images/chicken_kebab.jpg",
-    "foodQuantity": "5",
-    "pickupLocation": "TSC Canteen, CUET",
-    "Description": "Tender chicken pieces marinated and grilled to perfection.",
-    "additionalNotes": "Served with mint chutney.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user2.jpg",
-      "donatorName": "Sadia Islam",
-      "donatorEmail": "sadia@example.com"
+    _id: "2",
+    foodName: "Chicken Kebab",
+    foodImage: "https://example.com/images/chicken_kebab.jpg",
+    foodQuantity: "5",
+    pickupLocation: "TSC Canteen, CUET",
+    Description: "Tender chicken pieces marinated and grilled to perfection.",
+    additionalNotes: "Served with mint chutney.",
+    donator: {
+      donatorImage: "https://example.com/images/user2.jpg",
+      donatorName: "Sadia Islam",
+      donatorEmail: "sadia@example.com",
     },
-    "foodStatus": "available"
+    foodStatus: "available",
+    expiredDateTime: "2025-12-30T23:59:59Z",
   },
   {
-    "foodName": "Egg Curry",
-    "foodImage": "https://example.com/images/egg_curry.jpg",
-    "foodQuantity": "4",
-    "pickupLocation": "Nikunja Hall Canteen, CUET",
-    "Description": "Boiled eggs cooked in a spicy and flavorful gravy.",
-    "additionalNotes": "Best with steamed rice.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user3.jpg",
-      "donatorName": "Rafiq Ahmed",
-      "donatorEmail": "rafiq@example.com"
+    _id: "3",
+    foodName: "Egg Curry",
+    foodImage: "https://example.com/images/egg_curry.jpg",
+    foodQuantity: "4",
+    pickupLocation: "Nikunja Hall Canteen, CUET",
+    Description: "Boiled eggs cooked in a spicy and flavorful gravy.",
+    additionalNotes: "Best with steamed rice.",
+    donator: {
+      donatorImage: "https://example.com/images/user3.jpg",
+      donatorName: "Rafiq Ahmed",
+      donatorEmail: "rafiq@example.com",
     },
-    "foodStatus": "available"
+    foodStatus: "available",
+    expiredDateTime: "2025-12-29T23:59:59Z",
   },
   {
-    "foodName": "Vegetable Pulao",
-    "foodImage": "https://example.com/images/veg_pulao.jpg",
-    "foodQuantity": "2",
-    "pickupLocation": "Teacher's Student Center (TSC), CUET",
-    "Description": "Lightly spiced rice cooked with mixed vegetables.",
-    "additionalNotes": "Served with cucumber raita.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user4.jpg",
-      "donatorName": "Nabila Chowdhury",
-      "donatorEmail": "nabila@example.com"
+    _id: "4",
+    foodName: "Vegetable Pulao",
+    foodImage: "https://example.com/images/veg_pulao.jpg",
+    foodQuantity: "2",
+    pickupLocation: "Teacher's Student Center (TSC), CUET",
+    Description: "Lightly spiced rice cooked with mixed vegetables.",
+    additionalNotes: "Served with cucumber raita.",
+    donator: {
+      donatorImage: "https://example.com/images/user4.jpg",
+      donatorName: "Nabila Chowdhury",
+      donatorEmail: "nabila@example.com",
     },
-    "foodStatus": "available"
+    foodStatus: "available",
+    expiredDateTime: "2025-12-28T23:59:59Z",
   },
   {
-    "foodName": "Beef Bhuna",
-    "foodImage": "https://example.com/images/beef_bhuna.jpg",
-    "foodQuantity": "3",
-    "pickupLocation": "Jahangir Hall Canteen, CUET",
-    "Description": "Slow-cooked beef with rich spices and thick gravy.",
-    "additionalNotes": "Served hot with paratha.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user5.jpg",
-      "donatorName": "Imran Hossain",
-      "donatorEmail": "imran@example.com"
+    _id: "5",
+    foodName: "Beef Bhuna",
+    foodImage: "https://example.com/images/beef_bhuna.jpg",
+    foodQuantity: "3",
+    pickupLocation: "Jahangir Hall Canteen, CUET",
+    Description: "Slow-cooked beef with rich spices and thick gravy.",
+    additionalNotes: "Served hot with paratha.",
+    donator: {
+      donatorImage: "https://example.com/images/user5.jpg",
+      donatorName: "Imran Hossain",
+      donatorEmail: "imran@example.com",
     },
-    "foodStatus": "available"
+    foodStatus: "available",
+    expiredDateTime: "2025-12-27T23:59:59Z",
   },
   {
-    "foodName": "Mixed Vegetable Soup",
-    "foodImage": "https://example.com/images/veg_soup.jpg",
-    "foodQuantity": "4",
-    "pickupLocation": "Golam Kibria Hall Canteen, CUET",
-    "Description": "Healthy and warm soup made with fresh seasonal vegetables.",
-    "additionalNotes": "Good for cold days.",
-    "donator": {
-      "donatorImage": "https://example.com/images/user6.jpg",
-      "donatorName": "Farhana Yasmin",
-      "donatorEmail": "farhana@example.com"
+    _id: "6",
+    foodName: "Mixed Vegetable Soup",
+    foodImage: "https://example.com/images/veg_soup.jpg",
+    foodQuantity: "4",
+    pickupLocation: "Golam Kibria Hall Canteen, CUET",
+    Description: "Healthy and warm soup made with fresh seasonal vegetables.",
+    additionalNotes: "Good for cold days.",
+    donator: {
+      donatorImage: "https://example.com/images/user6.jpg",
+      donatorName: "Farhana Yasmin",
+      donatorEmail: "farhana@example.com",
     },
-    "foodStatus": "available"
-  }
-]
+    foodStatus: "available",
+    expiredDateTime: "2025-12-26T23:59:59Z",
+  },
+];
