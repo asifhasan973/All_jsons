@@ -1,4 +1,4 @@
-const sampleFoods = [
+[
   {
     _id: "1",
     foodName: "Vegetable Biryani",
