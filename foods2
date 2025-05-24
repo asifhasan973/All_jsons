@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "1",
+    "foodName": "Vegetable Biryani",
+    "foodImage": "https://plus.unsplash.com/premium_photo-1698867575634-d39ef95fa6a7?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "foodQuantity": "3",
+    "Description": "Aromatic basmati rice cooked with fresh vegetables and spices.",
+    "additionalNotes": "Includes salad and raita.",
+    "vendor": "Shah Hall Canteen, CUET",
+    "rating": 4
+  },
+  {
+    "_id": "2",
+    "foodName": "Chicken Kebab",
+    "foodImage": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "foodQuantity": "5",
+    "Description": "Tender chicken pieces marinated and grilled to perfection.",
+    "additionalNotes": "Served with mint chutney.",
+    "vendor": "TSC Canteen, CUET",
+    "rating": 5
+  },
+  {
+    "_id": "3",
+    "foodName": "Egg Curry",
+    "foodImage": "https://plus.unsplash.com/premium_photo-1678897742200-85f052d33a71?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "foodQuantity": "4",
+    "Description": "Boiled eggs cooked in a spicy and flavorful gravy.",
+    "additionalNotes": "Best with steamed rice.",
+    "vendor": "Nikunja Hall Canteen, CUET",
+    "rating": 3
+  },
+  {
+    "_id": "4",
+    "foodName": "Vegetable Pulao",
+    "foodImage": "https://plus.unsplash.com/premium_photo-1700752343056-e89926bf5ff9?q=80&w=3271&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "foodQuantity": "2",
+    "Description": "Lightly spiced rice cooked with mixed vegetables.",
+    "additionalNotes": "Served with cucumber raita.",
+    "vendor": "Shah Hall Canteen, CUET",
+    "rating": 4
+  },
+  {
+    "_id": "5",
+    "foodName": "Beef Bhuna",
+    "foodImage": "https://images.unsplash.com/photo-1485963631004-f2f00b1d6606?q=80&w=3350&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "foodQuantity": "3",
+    "Description": "Slow-cooked beef with rich spices and thick gravy.",
+    "additionalNotes": "Served hot with paratha.",
+    "vendor": "TSC Canteen, CUET",
+    "rating": 5
+  },
+  {
+    "_id": "6",
+    "foodName": "Mixed Vegetable Soup",
+    "foodImage": "https://images.unsplash.com/photo-1496116218417-1a781b1c416c?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "foodQuantity": "4",
+    "Description": "Healthy and warm soup made with fresh seasonal vegetables.",
+    "additionalNotes": "Good for cold days.",
+    "vendor": "Nikunja Hall Canteen, CUET",
+    "rating": 3
+  }
+]
