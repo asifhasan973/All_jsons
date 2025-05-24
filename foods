@@ -6,7 +6,8 @@
     "foodQuantity": "3",
     "Description": "Aromatic basmati rice cooked with fresh vegetables and spices.",
     "additionalNotes": "Includes salad and raita.",
-    "vendor": "Shah Hall Canteen, CUET"
+    "vendor": "Shah Hall Canteen, CUET",
+    "rating": 4
   },
   {
     "_id": "2",
@@ -15,7 +16,8 @@
     "foodQuantity": "5",
     "Description": "Tender chicken pieces marinated and grilled to perfection.",
     "additionalNotes": "Served with mint chutney.",
-    "vendor": "TSC Canteen, CUET"
+    "vendor": "TSC Canteen, CUET",
+    "rating": 5
   },
   {
     "_id": "3",
@@ -24,7 +26,8 @@
     "foodQuantity": "4",
     "Description": "Boiled eggs cooked in a spicy and flavorful gravy.",
     "additionalNotes": "Best with steamed rice.",
-    "vendor": "Nikunja Hall Canteen, CUET"
+    "vendor": "Nikunja Hall Canteen, CUET",
+    "rating": 3
   },
   {
     "_id": "4",
@@ -33,7 +36,8 @@
     "foodQuantity": "2",
     "Description": "Lightly spiced rice cooked with mixed vegetables.",
     "additionalNotes": "Served with cucumber raita.",
-    "vendor": "Shah Hall Canteen, CUET"
+    "vendor": "Shah Hall Canteen, CUET",
+    "rating": 4
   },
   {
     "_id": "5",
@@ -42,7 +46,8 @@
     "foodQuantity": "3",
     "Description": "Slow-cooked beef with rich spices and thick gravy.",
     "additionalNotes": "Served hot with paratha.",
-    "vendor": "TSC Canteen, CUET"
+    "vendor": "TSC Canteen, CUET",
+    "rating": 5
   },
   {
     "_id": "6",
@@ -51,6 +56,7 @@
     "foodQuantity": "4",
     "Description": "Healthy and warm soup made with fresh seasonal vegetables.",
     "additionalNotes": "Good for cold days.",
-    "vendor": "Nikunja Hall Canteen, CUET"
+    "vendor": "Nikunja Hall Canteen, CUET",
+    "rating": 3
   }
 ]
